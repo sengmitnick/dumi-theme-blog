@@ -1,0 +1,36 @@
+{
+  "name": "dumi-theme-blog",
+  "version": "1.0.0",
+  "description": "The blog theme of dumi",
+  "files": [
+    "es",
+    "src"
+  ],
+  "sideEffects": [
+    "./**/*.less"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sengmitnick/dumi-theme-blog.git",
+    "directory": "dumi-theme-default"
+  },
+  "homepage": "https://github.com/sengmitnick/dumi-theme-blog.git",
+  "bugs": "https://github.com/sengmitnick/dumi-theme-blog.git/issues",
+  "authors": [],
+  "dependencies": {
+    "prism-react-renderer": "^1.1.1",
+    "prismjs": "^1.21.0",
+    "rc-tabs": "^11.7.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.3",
+    "@testing-library/react": "^10.4.8",
+    "dumi": "1.1.7",
+    "react-test-renderer": "^16.13.1"
+  },
+  "peerDependencies": {
+    "@umijs/preset-dumi": "1.x",
+    "react": "^16.13.1"
+  },
+  "license": "MIT"
+}
