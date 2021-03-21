@@ -1,6 +1,6 @@
 {
   "name": "dumi-theme-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The blog theme of dumi",
   "files": [
     "es",
